@@ -1,0 +1,28 @@
+name: EatWithApp
+favicon: null
+layout_spectrum: 0.5324904068838805
+typography_spectrum: 0.1499531827867031
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.15046694898046553
+  lightness: 0.5238335623871535
+  saturation: 0.785981823457405
+  rhythmicContrast: 0.3626896529458463
+purpose: []
